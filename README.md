@@ -1,4 +1,4 @@
-# Analisis-de-Retencion-y-Comportamiento-Proyecto-ConnectaTel
+# Análisis-de-Retención-y-Comportamiento-Proyecto-ConnectaTel
 🎯 Objetivo del Proyecto
 El objetivo principal de este proyecto es analizar el comportamiento de los usuarios de la empresa de telecomunicaciones ConnectaTel. A través del procesamiento y limpieza de datos, buscamos segmentar a los clientes por edad y nivel de uso para identificar patrones de consumo (llamadas y mensajes) que permitan a la gerencia tomar decisiones estratégicas sobre la oferta de planes y retención de clientes.
 
